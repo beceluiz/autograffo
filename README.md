@@ -31,4 +31,4 @@ Conheça nossa equipe em [Equipe](https://altprise.com/equipe).
 
 Somos mais de 5.1k seguidores. #rumo10k
 
-<a href="tiktok.com/@altprise"><img src="https://upload.wikimedia.org/wikipedia/en/a/a9/TikTok_logo.svg" width="300"></a>
+<a href="https://www.tiktok.com/@altprise"><img src="https://upload.wikimedia.org/wikipedia/en/a/a9/TikTok_logo.svg" width="300"></a>
